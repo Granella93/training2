@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+
+html{
+   font-size:  24px;
+   font-family: 'Work Sans', sans-serif;
+
+}
+
+
+
+/* SEITE 1 */
+
+header{
+    text-align: center;
+}
+header div h2{
+text-align: center;
+margin: 0 auto;
+font-size: 60px;
+}
+
+header div h1{
+    font-size: 150px;
+}
+
+/* SEITE 2 */
+
+main section:first-of-type{
+    background-image: url(/assets/img/portfolio2.jpg);
+    background-size: 100%;
+    
+    background-repeat: no-repeat;
+}
+
+main section:first-of-type p:first-of-type{
+    text-align: left;
+    padding-top: 200px;
+    padding-left: 200px;
+    color: rgb(117, 117, 117);
+}
+
+main section:first-of-type p:nth-of-type(2){
+    text-align: left;
+    padding-left: 200px;
+    margin-bottom: 70px;
+    color: rgb(117, 117, 117);
+}
+
+main section:first-of-type h2{
+text-align: left;
+font-size: 200px;
+padding-left: 180px;
+color: white;
+margin: 0 auto;
+}
+
+main section:first-of-type a{
+    text-align: left;
+   padding: 15px 25px;
+   margin-left: 200px;
+   border: white solid 2px;
+   border-radius: 10px;
+   color: white;
+   text-decoration: none;
+}
+main section:first-of-type a:hover ~ h3{
+    color: white;
+    
+}
+main section:first-of-type a:hover{
+    background-color: white; 
+    color: black;
+}
+main section:first-of-type h3{
+    text-align: right;
+    font-size: 200px;
+    color:grey;
+    padding: 100px;
+    margin: 0 auto;
+}
+
+/* SEITE 3 */
+
+main section:nth-of-type(2){
+    background-image: url(/assets/img/portfolio3.png);
+    background-size: 100%;
+    
+    background-repeat: no-repeat;
+}
+
+main section:nth-of-type(2) p:first-of-type{
+    text-align: left;
+    padding-top: 200px;
+    padding-left: 200px;
+    color: rgb(117, 117, 117);
+}
+
+main section:nth-of-type(2) p:nth-of-type(2){
+    text-align: left;
+    padding-left: 200px;
+    margin-bottom: 70px;
+    color: rgb(117, 117, 117);
+}
+
+main section:nth-of-type(2) h2{
+text-align: left;
+padding-left: 180px;
+font-size: 200px;
+color: black;
+margin: 0 auto;
+}
+
+main section:nth-of-type(2) a{
+    text-align: left;
+   padding: 15px 25px;
+   margin-left: 200px;
+   border: black solid 2px;
+   border-radius: 10px;
+   color: black;
+   text-decoration: none;
+}
+
+main section:nth-of-type(2) a:hover ~ h3{
+    color: black;
+    
+}
+main section:nth-of-type(2) a:hover{
+    background-color: black; 
+    color: white;
+}
+
+main section:nth-of-type(2) h3{
+    text-align: right;
+    font-size: 200px;
+    color:grey;
+    padding: 100px;
+    margin: 0 auto;
+}
+
+/* SEITE 4 */
+
+main section:nth-of-type(3){
+    background-image: url(/assets/img/portfolio4.jpg);
+    background-size: 100%;
+    
+    background-repeat: no-repeat;
+}
+
+main section:nth-of-type(3) p:first-of-type{
+    text-align: left;
+    padding-top: 200px;
+    padding-left: 200px;
+    color: rgb(117, 117, 117);
+}
+
+main section:nth-of-type(3) p:nth-of-type(2){
+    text-align: left;
+    padding-left: 200px;
+    margin-bottom: 70px;
+    color: rgb(117, 117, 117);
+}
+
+main section:nth-of-type(3) h2{
+text-align: left;
+padding-left: 180px;
+font-size: 200px;
+color: white;
+margin: 0 auto;
+}
+
+main section:nth-of-type(3) a:hover ~ h3{
+    color: white;
+    
+}
+main section:nth-of-type(3) a:hover{
+    background-color: white; 
+    color: black;
+}
+
+main section:nth-of-type(3) a{
+    text-align: left;
+   padding: 15px 25px;
+   margin-left: 200px;
+   border: white solid 2px;
+   border-radius: 10px;
+   color: white;
+   text-decoration: none;
+    
+}
+
+main section:nth-of-type(3) h3{
+    text-align: right;
+    font-size: 200px;
+    color:grey;
+    padding: 100px;
+    margin: 0 auto;
+}
+
+/* Seite 5 */
+
+main section:nth-of-type(4){
+    background-image: url(/assets/img/portfolio5.png);
+    background-size: 100%;
+    
+    background-repeat: no-repeat;
+}
+
+main section:nth-of-type(4) p:first-of-type{
+    text-align: left;
+    padding-top: 200px;
+    padding-left: 200px;
+    color: rgb(117, 117, 117);
+}
+
+main section:nth-of-type(4) p:nth-of-type(2){
+    text-align: left;
+    padding-left: 200px;
+    margin-bottom: 70px;
+    color: rgb(117, 117, 117);
+}
+
+main section:nth-of-type(4) h2{
+text-align: left;
+padding-left: 180px;
+font-size: 200px;
+color: black;
+margin: 0 auto;
+}
+
+main section:nth-of-type(4) a{
+    text-align: left;
+   padding: 15px 25px;
+   margin-left: 200px;
+   border: black solid 2px;
+   border-radius: 10px;
+   color: black;
+   text-decoration: none;
+    
+}
+
+main section:nth-of-type(4) a:hover ~ h3{
+    color: black;
+    
+}
+main section:nth-of-type(4) a:hover{
+    background-color: black; 
+    color: white;
+}
+
+main section:nth-of-type(4) h3{
+    text-align: right;
+    font-size: 200px;
+    color:grey;
+    padding: 100px;
+    margin: 0 auto;
+}
+
+/* SEITE 6 */
+
+main section:nth-of-type(5){
+    background-color: black;
+    padding-bottom: 100px;
+}
+
+main section:nth-of-type(5) h2 , h3 {
+    color:white;
+}
+
+main section:nth-of-type(5) p{
+    color: grey;
+}
+
+main section:nth-of-type(5) h2{
+    font-size: 150px;
+    text-align: center;
+    padding-top: 150px;
+}
+
+main section:nth-of-type(5) p{
+    font-size: 30px;
+    
+    padding-left: 900px;
+    padding-right: 150px;
+}
+
+main section:nth-of-type(5) h3{
+    font-size: 80px;
+    padding-left: 900px;
+    padding-right: 150px;
+}
+
+main section:nth-of-type(5) h3:hover{
+    text-decoration: underline white;
+}
+
+
+/* SEITE 7 */
+
+main section:nth-of-type(6) h2{
+    font-size: 130px;
+    text-align: center;
+}
+
+main section:nth-of-type(6) h2:hover{
+    text-decoration: underline;
+}
+
+footer{
+    text-align: center;
+    animation: heart infinite 1s;
+    padding-bottom: 100px;
+}
+
+@keyframes heart{
+    0% ,100%{
+        font-size: 24px;
+    }
+    50%{
+        font-size: 30px;
+    }
+}
