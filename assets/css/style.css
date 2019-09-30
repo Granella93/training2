@@ -26,7 +26,7 @@ header div h1{
 /* SEITE 2 */
 
 main section:first-of-type{
-    background-image: url(img/portfolio2.jpg);
+    background-image: url(../img/portfolio2.jpg);
     background-size: 100%;
     
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@ main section:first-of-type h3{
 /* SEITE 3 */
 
 main section:nth-of-type(2){
-    background-image: url(img/portfolio3.png);
+    background-image: url(../img/portfolio3.png);
     background-size: 100%;
     
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@ main section:nth-of-type(2) h3{
 /* SEITE 4 */
 
 main section:nth-of-type(3){
-    background-image: url(img/portfolio4.jpg);
+    background-image: url(../img/portfolio4.jpg);
     background-size: 100%;
     
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@ main section:nth-of-type(3) h3{
 /* Seite 5 */
 
 main section:nth-of-type(4){
-    background-image: url(img/portfolio5.png);
+    background-image: url(../img/portfolio5.png);
     background-size: 100%;
     
     background-repeat: no-repeat;
